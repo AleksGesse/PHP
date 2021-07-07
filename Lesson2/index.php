@@ -11,7 +11,7 @@ $auto = [
     "Mini"=>"Hatch",
     "Proton"=>"Inspira",
     "GMC"=>"Sierra",
-    "Dodge"=>"Caliber",];
+    "Dodge"=>"Caliber"];
 
 // Task 2: Using 'foreach' display all elements on the screen
 
