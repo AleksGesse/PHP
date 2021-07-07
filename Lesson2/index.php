@@ -4,7 +4,7 @@
 $auto = [
     "Acura"=>"CDX",
     "Mercedes"=>"CLA",
-    "BMV"=>"435",
+    "BMW"=>"435",
     "Lexus"=>"RC F",
     "Jaguar"=>"XFR",
     "Lotus"=>"Eclat",
